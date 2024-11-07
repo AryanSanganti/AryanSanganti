@@ -24,8 +24,9 @@ Hey! I'm Aryan Sanganti, a passionate full-stack developer and tech enthusiast. 
 Here are some of my most recent and impactful projects:
 
 - 🌿 **[PranaBot](https://github.com/aryansanganti/Pranabot)** – An Ayurvedic plant detection website utilizing Gemini for image analysis, providing detailed plant information and remedies.
+- 💼 **[CareMate](https://github.com/aryansanganti/Arthemis)** – A comprehensive patient management system with appointment scheduling, user authentication, and dashboards for patients and caregivers.
 - 💻 **[Job Board Frontend](https://github.com/aryansanganti/JobBoard)** – A frontend project for a job board platform, designed for efficient job listings and user-friendly navigation.
-- 💼 **[CareMate](https://github.com/aryansanganti/caremate)** – A comprehensive patient management system with appointment scheduling, user authentication, and dashboards for patients and caregivers.
+
 
 For more, check out my [repositories](https://github.com/aryansanganti?tab=repositories)!
 
