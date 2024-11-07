@@ -7,7 +7,7 @@ Hey! I'm Aryan Sanganti, a passionate full-stack developer and tech enthusiast. 
 - 🔭 Currently working on **3D websites** and **AI/ML-integrated websites**.
 - 🌱 Learning more about **Threejs**,**Data Structures and ALgorithm**,**TensorFLow**and **Next.js**.
 - 💬 Ask me about **JavaScript,React,MongoDB,Nodejs,Expressjs, Tailwind, and Firebase**.
-- ⚡ Fun fact: I’m a travel enthusiast who loves binge-watching my favorite shows! ✈️📺
+- ⚡ Fun fact: I’m a travel enthusiast & who loves binge-watching my favorite shows! ✈️📺
 
 ## 🛠️ Tech Stack
 
