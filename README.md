@@ -21,7 +21,8 @@ Hey! I'm Aryan Sanganti, a passionate full-stack developer and tech enthusiast. 
 
 Here are some of my most recent and impactful projects:
 
-- 🔥 **[Project Name](https://github.com/your-username/project-link)** – A responsive AI-powered web narrator built with React, Tailwind, and Firebase. Features speech synthesis, dynamic content generation, and Firebase integration.
+- 🌿 PranaBot – An Ayurvedic plant detection website utilizing Gemini for image analysis, providing detailed plant information and remedies.
+- 💻 Job Board Frontend – A frontend project for a job board platform, designed for efficient job listings and user-friendly navigation.
 - 💼 **[CareMate](https://github.com/your-username/caremate)** – A comprehensive patient management system with appointment scheduling, user authentication, and dashboards for patients and caregivers.
 
 For more, check out my [repositories](https://github.com/your-username?tab=repositories)!
