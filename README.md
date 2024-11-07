@@ -25,7 +25,7 @@ Here are some of my most recent and impactful projects:
 - 💻 **[Job Board Frontend](https://github.com/aryansanganti/JobBoard)** – A frontend project for a job board platform, designed for efficient job listings and user-friendly navigation.
 - 💼 **[CareMate](https://github.com/aryansanganti/caremate)** – A comprehensive patient management system with appointment scheduling, user authentication, and dashboards for patients and caregivers.
 
-For more, check out my [repositories](https://github.com/your-username?tab=repositories)!
+For more, check out my [repositories](https://github.com/aryansanganti?tab=repositories)!
 
 ## 🎯 GitHub Highlights
 
