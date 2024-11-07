@@ -1,7 +1,5 @@
 # 🌟 Welcome to Aryan Sanganti's GitHub Profile!
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=aryansanganti&show_icons=true&theme=radical)](https://github.com/aryansanganti)
-
 ## 👨‍💻 About Me
 
 Hey! I'm Aryan Sanganti, a passionate full-stack developer and tech enthusiast. I love building innovative web applications and improving user experiences with modern web technologies like React,MongoDB,Nodejs,Expressjs, Tailwind,Threejs,and Firebase. My journey is fueled by curiosity and the drive to solve complex problems through code.
@@ -31,8 +29,11 @@ For more, check out my [repositories](https://github.com/your-username?tab=repos
 ## 🎯 GitHub Highlights
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansanganti&layout=compact&theme=radical)](https://github.com/aryansanganti)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=aryansanganti&show_icons=true&theme=radical)](https://github.com/aryansanganti)
 
 - 🔥 **Languages Used:** Focus on JavaScript, CSS, and modern libraries.
+
+ 
 - 🏆 **Contribution Streak:** Consistent contributions across multiple repositories.
 
 ## 💬 Let's Connect
