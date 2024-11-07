@@ -1,6 +1,7 @@
 <div align="center">
 <img width="100%" src="https://github.com/aryansanganti/aryansanganti/blob/main/banner.png" alt="header-img" />
 </div>
+
 ## 👨‍💻 About Me
 
 Hey! I'm Aryan Sanganti, a passionate full-stack developer and tech enthusiast. I love building innovative web applications and improving user experiences with modern web technologies like React,MongoDB,Nodejs,Expressjs, Tailwind,Threejs,and Firebase. My journey is fueled by curiosity and the drive to solve complex problems through code.
