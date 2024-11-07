@@ -43,9 +43,9 @@ For more, check out my [repositories](https://github.com/aryansanganti?tab=repos
 ## 💬 Let's Connect
 
 - LinkedIn: [Aryan Sanganti's Linkdin](https://linkedin.com/in/your-link)
-- Portfolio: [Aryan Sanganti's PortFolio](https://yourportfolio.com)
-- Twitter: [Aryan Sanganti's Twitter](https://twitter.com/yourtwitter)
-- Blog: [Aryan Sanganti's BLog Post](https://yourblog.com)
+- Portfolio: [Aryan Sanganti's PortFolio](https://portfolio-aryansangantis-projects.vercel.app/)
+- X: [Aryan Sanganti's X]([https://twitter.com/yourtwitter](https://x.com/AryanSanganti))
+- Blog: [Aryan Sanganti's BLog Post](https://medium.com/@aryan.sanganti)
 
 Feel free to reach out, collaborate, or just say hi!
 
