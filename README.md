@@ -1,12 +1,12 @@
 # 🌟 Welcome to Aryan Sanganti's GitHub Profile!
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/aryansanganti)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=aryansanganti&show_icons=true&theme=radical)](https://github.com/aryansanganti)
 
 ## 👨‍💻 About Me
 
 Hey! I'm Aryan Sanganti, a passionate full-stack developer and tech enthusiast. I love building innovative web applications and improving user experiences with modern web technologies like React,MongoDB,Nodejs,Expressjs, Tailwind,Threejs,and Firebase. My journey is fueled by curiosity and the drive to solve complex problems through code.
 
-- 🔭 Currently working on **AI-powered web narrators** and **responsive UI components**.
+- 🔭 Currently working on **3D websites** and **AI/ML-integrated websites**.
 - 🌱 Learning more about **Threejs**,**Data Structures and ALgorithm**,**TensorFLow**and **Next.js**.
 - 💬 Ask me about **JavaScript,React,MongoDB,Nodejs,Expressjs, Tailwind, and Firebase**.
 - ⚡ Fun fact: I’m a travel enthusiast who loves binge-watching my favorite shows! ✈️📺
@@ -30,17 +30,17 @@ For more, check out my [repositories](https://github.com/your-username?tab=repos
 
 ## 🎯 GitHub Highlights
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansanganti&layout=compact&theme=radical)](https://github.com/aryansanganti)
 
 - 🔥 **Languages Used:** Focus on JavaScript, CSS, and modern libraries.
 - 🏆 **Contribution Streak:** Consistent contributions across multiple repositories.
 
 ## 💬 Let's Connect
 
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-- Blog: [yourblog.com](https://yourblog.com)
+- LinkedIn: [Aryan Sanganti's Linkdin](https://linkedin.com/in/your-link)
+- Portfolio: [Aryan Sanganti's PortFolio](https://yourportfolio.com)
+- Twitter: [Aryan Sanganti's Twitter](https://twitter.com/yourtwitter)
+- Blog: [Aryan Sanganti's BLog Post](https://yourblog.com)
 
 Feel free to reach out, collaborate, or just say hi!
 
