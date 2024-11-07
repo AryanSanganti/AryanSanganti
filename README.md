@@ -1,4 +1,3 @@
-# 🌟 Welcome to Aryan Sanganti's GitHub Profile!
 <div align="center">
 <img width="100%" src="https://github.com/aryansanganti/aryansanganti/blob/main/banner.png" alt="header-img" />
 </div>
