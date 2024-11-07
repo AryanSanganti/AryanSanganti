@@ -1,6 +1,6 @@
 # 🌟 Welcome to Aryan Sanganti's GitHub Profile!
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/aryansanganti)
 
 ## 👨‍💻 About Me
 
