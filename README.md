@@ -28,17 +28,15 @@ Here are some of my most recent and impactful projects:
 For more, check out my [repositories](https://github.com/aryansanganti?tab=repositories)!
 
 ## 🎯 GitHub Highlights
-<div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansanganti&layout=compact&theme=radical)](https://github.com/aryansanganti)
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=aryansanganti&theme=react&hide_border=true)<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryansanganti&layout=compact&theme=radical)](https://github.com/aryansanganti)<br/><br/>
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=aryansanganti&show_icons=true&theme=radical)](https://github.com/aryansanganti)
 
-</div>
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryansanganti&theme=react&hide_border=true)<br/>
 
 
-</div>
+
 
 ## 💬 Let's Connect
 
