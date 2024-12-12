@@ -14,7 +14,7 @@
 Hey! I'm Aryan Sanganti, a passionate full-stack developer and tech enthusiast. I love building innovative web applications and improving user experiences with modern web technologies like React,MongoDB,Nodejs,Expressjs, Tailwind,Threejs,and Firebase. My journey is fueled by curiosity and the drive to solve complex problems through code.
 
 - 🔭 Currently working on **3D websites** and **AI/ML-integrated websites**.
-- 🌱 Learning more about **Threejs**,**Data Structures and ALgorithm**,**TensorFLow**and **Next.js**.
+- 🌱 Learning more about **Data Structures and Algorithm** and **AI & ML**.
 - 💬 Ask me about **JavaScript,React,MongoDB,Nodejs,Expressjs, Tailwind, and Firebase**.
 - ⚡ Fun fact: I’m a travel enthusiast & who loves binge-watching my favorite shows! ✈️📺
 
